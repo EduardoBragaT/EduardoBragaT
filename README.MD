@@ -8,6 +8,10 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBragaT&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoBragaT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rand=1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBragaT&layout=compact&langs_count=6&theme=tokyonight&rand=1)
+
 <div style="display: inline_block"><br>
     <img align="center" alt="Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
