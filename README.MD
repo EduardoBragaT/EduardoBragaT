@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Eduardo Braga 😁
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoBragaT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rand=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoBragaT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBragaT&layout=compact&langs_count=6&theme=tokyonight&rand=1)
 
